@@ -1,5 +1,5 @@
 {
-  "name": "watsonx-content-extraction",
+  "name": "content-extraction",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
