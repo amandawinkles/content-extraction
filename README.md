@@ -1,8 +1,7 @@
 # content-extraction
 Automated contract analysis and content extraction using watsonx, LangChain, Node.js, and React.js. 
 
-CONTRACT PROCESSING EXAMPLE<p>
-Automated contract analysis using watsonx, LangChain, Node.js, and React.js. 
+CONTRACT PROCESSING EXAMPLE<p> 
 
 ## Summary
 The accompanying tutorial video aims to guide users in developing a solution which automates the interpretation and processing of content such as contracts. The solution utilizes generative AI with capabilities for content extraction, summarization, and structured output. 
